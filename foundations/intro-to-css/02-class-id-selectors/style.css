@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.normal {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color:rgb(255, 150, 150);
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#numtwo {
+    font-size: 36px;
+    color: rgb(100, 100, 255);
+}
+
+#numfour {
+    font-weight: bold;
+    background-color: hsl(109, 100%, 75%);
+}
